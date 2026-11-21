@@ -4,7 +4,7 @@
 
 ---
 
-### TH Trần Hưng Đạo MC
+### TH Tran Hung Dao (Bedrock Edition)
 
 <img width="3840" height="2160" alt="1000737437" src="https://github.com/user-attachments/assets/0c04994f-0a3c-48a9-9778-f0c075ae53b3" />
 
