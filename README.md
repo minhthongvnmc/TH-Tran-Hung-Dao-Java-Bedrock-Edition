@@ -6,7 +6,8 @@
 
 ### TH Trần Hưng Đạo MC
 
-<img width="854" height="480" alt="1000730381" src="https://github.com/user-attachments/assets/753954ab-738e-408d-9560-0538c82c5419" />
+<img width="3840" height="2160" alt="1000737437" src="https://github.com/user-attachments/assets/0c04994f-0a3c-48a9-9778-f0c075ae53b3" />
+
 
 | | |
 | :--- | :--- |
