@@ -30,7 +30,7 @@
 
 ### 📌 Project Information
 
-- **Project Name:** TDTH THD MC
+- **Project Name:** TH Tran Hung Dao (Java & Bedrock)
 - **Main Developer / Studio:** MinhthongVNMC Studio
 - **Platform:** Minecraft Java & Bedrock Edition
 - **Initial Creation Date:** September 8th, 2026
